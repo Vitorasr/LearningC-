@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/vitor/.nuget/packages/": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vitor/Documentos/C#-Projects/C#-Projects.csproj",
+      "projectUniqueName": "/workspaces/codespaces-blank/LearningC-/C#-Projects.csproj",
       "projectName": "C#-Projects",
-      "projectPath": "/home/vitor/Documentos/C#-Projects/C#-Projects.csproj",
-      "packagesPath": "/home/vitor/.nuget/packages/",
-      "outputPath": "/home/vitor/Documentos/C#-Projects/obj/",
+      "projectPath": "/workspaces/codespaces-blank/LearningC-/C#-Projects.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/codespaces-blank/LearningC-/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/vitor/.nuget/NuGet/NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

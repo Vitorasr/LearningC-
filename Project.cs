@@ -1,10 +1,9 @@
-using LearningCSharp;
+using CalculatorFile;
 
 class Project
 {
     static void Main()
     {
-        One.Dictionary();
-    
+        CalculatorClass.init();
     }
 }
