@@ -1,9 +1,9 @@
-using CalculatorFile;
+using tictactoeFile;
 
 class Project
 {
     static void Main()
     {
-        CalculatorClass.init();
+        tictactoe.start();
     }
 }
