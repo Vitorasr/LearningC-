@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = C#-Projects
-build_property.ProjectDir = /home/vitor/Documentos/C#-Projects/
+build_property.ProjectDir = /workspaces/codespaces-blank/LearningC-/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+
 namespace LearningCSharp
 {
     public class Pessoa
@@ -123,5 +124,24 @@ namespace LearningCSharp
             }
             
         }
+
+        public static void Viadinho(String nome){
+            Console.WriteLine(nome);
+            int idadeLucas = 74;
+            int idadeVitor = 18;
+            if (idadeLucas > idadeVitor)
+            {
+                Console.WriteLine("Lucas é mais velho que Vitor");
+            }
+            else if (idadeLucas < idadeVitor)
+            {
+                Console.WriteLine("Vitor é mais velho que Lucas");
+            }
+            else
+            {
+                Console.WriteLine("Lucas e Vitor têm a mesma idade");
+            }
+            Console.WriteLine("Idade de Lucas: " + idadeLucas);
+        } 
     }
 }
