@@ -1,0 +1,33 @@
+<ContentPage
+  x:Class="Learning.Views.Teste1"
+  xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+  <StackLayout>
+    <Label
+      HorizontalOptions="Center"
+      Text="Hello World!"
+      VerticalOptions="Center" />
+    <Label Text="{Binding Volume, StringFormat='Volume: {0:F0}'}" />
+    <Slider
+      Maximum="100"
+      Minimum="0"
+      Value="{Binding Volume, Mode=TwoWay}" />
+    <Label Text="Digite algo:" />
+    <Entry Placeholder="Digite algo aqui" Text="{Binding EntryText, Mode=TwoWay}" />
+    <Grid ColumnDefinitions="*,*" RowDefinitions="Auto,Auto">
+      <Label
+        Grid.Row="0"
+        Grid.Column="0"
+        Text="{Binding EntryText, StringFormat='Você digitou: {0}'}" />
+      <Label
+        Grid.Row="0"
+        Grid.Column="1"
+        Text="{Binding CombinedText}" />
+      <Label
+        Grid.Row="1"
+        Grid.Column="0"
+        Text="{Binding Multiply}" />
+    </Grid>
+
+  </StackLayout>
+</ContentPage>

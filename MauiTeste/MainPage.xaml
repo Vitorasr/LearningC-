@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="Learning.MainPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" >
+    <StackLayout>
+        <Button Text="Open Teste 1" Clicked="OnTeste1Clicked"/>
+    </StackLayout>
+</ContentPage>
