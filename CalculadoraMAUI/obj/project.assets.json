@@ -3064,11 +3064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\Documents\\calculator\\CalculadoraMAUI\\CalculadoraMAUI.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\Documents\\C#\\CalculadoraMAUI\\CalculadoraMAUI.csproj",
       "projectName": "CalculadoraMAUI",
-      "projectPath": "C:\\Users\\vitor\\Documents\\calculator\\CalculadoraMAUI\\CalculadoraMAUI.csproj",
+      "projectPath": "C:\\Users\\vitor\\Documents\\C#\\CalculadoraMAUI\\CalculadoraMAUI.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\Documents\\calculator\\CalculadoraMAUI\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\Documents\\C#\\CalculadoraMAUI\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
