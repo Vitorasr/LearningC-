@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor\\Documents\\calculator\\Learning\\Learning.csproj": {}
+    "C:\\Users\\vitor\\Documents\\C#\\MauiTeste\\Learning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor\\Documents\\calculator\\Learning\\Learning.csproj": {
+    "C:\\Users\\vitor\\Documents\\C#\\MauiTeste\\Learning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\Documents\\calculator\\Learning\\Learning.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\Documents\\C#\\MauiTeste\\Learning.csproj",
         "projectName": "Learning",
-        "projectPath": "C:\\Users\\vitor\\Documents\\calculator\\Learning\\Learning.csproj",
+        "projectPath": "C:\\Users\\vitor\\Documents\\C#\\MauiTeste\\Learning.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\Documents\\calculator\\Learning\\obj\\",
+        "outputPath": "C:\\Users\\vitor\\Documents\\C#\\MauiTeste\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
